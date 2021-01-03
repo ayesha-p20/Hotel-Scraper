@@ -1,0 +1,102 @@
+1.2.2021
+
+
+{"name":"DoubleTree by Hilton Hotel New York Times Square West","providerList":["Expedia.com","Booking.com","Priceline","Travelocity.com","Hotels.com","KAYAK.com","DoubleTree by Hilton Hotel New York Times Square West","Agoda","HotelsCombined","Orbitz.com","CheapTickets.com","LastMinuteTravel"]}
+
+{"name":"Holiday Inn New York City - Times Square","providerList":["Expedia.com","Hotels.com","Travelocity.com","Orbitz.com","Priceline","Agoda","Booking.com","Traveluro","Trip.com","Holiday Inn New York City - Times Square","HotelsCombined","LastMinuteTravel"]}
+
+{"name":"Millennium Hilton New York One UN Plaza","providerList":["Priceline","Hotels.com","Expedia.com","Tripadvisor.com","KAYAK.com","Travelocity.com","Booking.com","Agoda","Millennium Hilton New York One UN Plaza","HotelsCombined","CheapTickets.com","Orbitz.com"]}
+
+{"name":"The Central Park North","providerList":["KAYAK.com","Expedia.com","Priceline","Hotels.com","Tripadvisor.com","Booking.com","Bookety","Orbitz.com","Agoda","CheapTickets.com","Hurb.com","Travelocity.com"]}
+
+{"name":"Made Hotel","providerList":["Made Hotel","Booking.com","Priceline","Tripadvisor.com","MobyTrip","Agoda","Tablet Hotels by Michelin"]}
+
+{"name":"The Ritz-Carlton New York, Central Park","providerList":[]}
+
+{"name":"Park Central Hotel New York","providerList":["Priceline","Expedia.com","Hotels.com","Tripadvisor.com","KAYAK.com","Travelocity.com","Orbitz.com","Agoda","HotelsCombined","CheapTickets.com","Traveluro","LastMinuteTravel"]}
+
+{"name":"Four Seasons Hotel New York","providerList":[]}
+
+{"name":"Warwick New York","providerList":["KAYAK.com","Priceline","Expedia.com","Hotels.com","Tripadvisor.com","Booking.com","HotelsCombined","Agoda","Orbitz.com","LastMinuteTravel","CheapTickets.com","FindHotel"]}
+
+{"name":"Hyatt Place New York City / Times Square","providerList":["Hotels.com","Expedia.com","Travelocity.com","Tripadvisor.com","Hyatt Place New York City / Times Square","Agoda","Priceline","Orbitz.com","CheapTickets.com","Trip.com","Bookety","Destinia"]}
+
+{"name":"New York Marriott Downtown","providerList":["Expedia.com","Priceline","Hotels.com","KAYAK.com","New York Marriott Downtown","Trip.com","Travelocity.com","Orbitz.com","Booking.com","trivago.com","FindHotel","CheapTickets.com"]}
+
+{"name":"The Grand NYC Apartments","providerList":["Bookety","Snaptravel"]}
+
+Summary - New York
+
+{"Hotels":12}
+
+{"Ads":2}
+
+{"Expedia.com":8,"Booking.com":7,"Priceline":9,"Travelocity.com":7,"Hotels.com":8,"KAYAK.com":6,"DoubleTree by Hilton Hotel New York Times Square West":1,"Agoda":8,"HotelsCombined":5,"Orbitz.com":8,"CheapTickets.com":7,"LastMinuteTravel":4,"Traveluro":2,"Trip.com":3,"Holiday Inn New York City - Times Square":1,"Tripadvisor.com":6,"Millennium Hilton New York One UN Plaza":1,"Bookety":3,"Hurb.com":1,"Made Hotel":1,"MobyTrip":1,"Tablet Hotels by Michelin":1,"FindHotel":2,"Hyatt Place New York City / Times Square":1,"Destinia":1,"New York Marriott Downtown":1,"trivago.com":1,"Snaptravel":1}
+
+
+{"name":"SLS Brickell Miami","providerList":["Expedia.com","Booking.com","Tripadvisor.com","Travelocity.com","Hotels.com","Orbitz.com","Trip.com","KAYAK.com","CheapTickets.com","Traveluro","Hotwire.com","FindHotel"]}
+
+{"name":"Ithaca of South Beach Hotel","providerList":["Booking.com","Expedia.com","Tripadvisor.com","Priceline","Hotels.com","Orbitz.com","Travelocity.com","FindHotel","HotelsCombined","Hotwire.com","Agoda","CheapTickets.com"]}
+
+{"name":"W Miami","providerList":["HotelsCombined","KAYAK.com","W Miami","Expedia.com","Booking.com","Travelocity.com","Priceline","Agoda","Trip.com","Hotels.com","FindHotel","CheapTickets.com"]}
+
+{"name":"The Ritz-Carlton Coconut Grove, Miami","providerList":["Expedia.com","Priceline","Booking.com","FindHotel","Agoda","Hotels.com","Travelocity.com","KAYAK.com","The Ritz-Carlton Coconut Grove, Miami","Trip.com","trivago.com","CheapTickets.com"]}
+
+{"name":"Villa Italia South Beach Miami","providerList":["Booking.com","KAYAK.com","Travelocity.com","Expedia.com","Tripadvisor.com","HotelTonight.com","Hotels.com","Priceline","Orbitz.com","CheapTickets.com","Hotwire.com","FindHotel"]}
+
+{"name":"Casa Sofi","providerList":["Agoda","Booking.com","Priceline","MobyTrip"]}
+
+{"name":"EAST Miami","providerList":["Booking.com","SKYLARK","Expedia.com","Agoda","Tripadvisor.com","Travelocity.com","KAYAK.com","Priceline","Orbitz.com","Hotels.com","CheapTickets.com","FindHotel"]}
+
+{"name":"Bentley Beach Club","providerList":["Expedia.com","Booking.com","KAYAK.com","Priceline","Bentley Beach Club","Travelocity.com","Agoda","Hotels.com","Hotwire.com","Orbitz.com","Trip.com","CheapTickets.com"]}
+
+{"name":"Four Seasons Hotel Miami","providerList":[]}
+
+{"name":"Aloft Coral Gables","providerList":["Expedia.com","Booking.com","Priceline","Travelocity.com","Orbitz.com","Aloft Coral Gables","Hotels.com","Agoda","Trip.com","trivago.com","CheapTickets.com","FindHotel"]}
+
+{"name":"The Mayfair at Coconut Grove","providerList":["The Mayfair at Coconut Grove","Expedia.com","Booking.com","Priceline","Tripadvisor.com","KAYAK.com","Travelocity.com","Hotels.com","Agoda","Trip.com","HotelsCombined","trivago.com"]}
+
+{"name":"iCoconutGrove","providerList":["Priceline","Expedia.com","Travelocity.com","Tripadvisor.com","Hotels.com","Orbitz.com","CheapTickets.com","Snaptravel"]}
+
+Summary - Miami
+
+{"Hotels":12}
+
+{"Ads":2}
+
+{"Expedia.com":10,"Booking.com":10,"Tripadvisor.com":6,"Travelocity.com":10,"Hotels.com":10,"Orbitz.com":7,"Trip.com":6,"KAYAK.com":7,"CheapTickets.com":9,"Traveluro":1,"Hotwire.com":4,"FindHotel":7,"Priceline":10,"HotelsCombined":3,"Agoda":8,"W Miami":1,"The Ritz-Carlton Coconut Grove, Miami":1,"trivago.com":3,"HotelTonight.com":1,"MobyTrip":1,"SKYLARK":1,"Bentley Beach Club":1,"Aloft Coral Gables":1,"The Mayfair at Coconut Grove":1,"Snaptravel":1}
+
+
+{"name":"Hilton San Francisco Financial District","providerList":["Hotels.com","Expedia.com","Agoda","Booking.com","Travelocity.com","LastMinuteTravel","Hilton San Francisco Financial District","Priceline","KAYAK.com","HotelsCombined","CheapTickets.com","Hotwire.com"]}
+
+{"name":"Hotel Abri","providerList":["Hotel Abri","Hotels.com","Booking.com","Expedia.com","Tripadvisor.com","Priceline","Agoda","HotelsCombined","Travelocity.com","Snaptravel","Hotwire.com","FindHotel"]}
+
+{"name":"Courtyard by Marriott San Francisco Airport/Oyster Point Waterfront","providerList":["Courtyard by Marriott San Francisco Airport/Oyster Point Waterfront","Hotels.com","Expedia.com","Agoda","trivago.com","Priceline","Orbitz.com","FindHotel","Travelocity.com","Booking.com","Hotwire.com","Trip.com"]}
+
+{"name":"Courtyard by Marriott San Francisco Union Square","providerList":["Courtyard by Marriott San Francisco Union Square","Hotels.com","Expedia.com","Agoda","Travelocity.com","Booking.com","FindHotel","Priceline","Orbitz.com","CheapTickets.com","KAYAK.com","Trip.com"]}
+
+{"name":"InterContinental San Francisco","providerList":["InterContinental San Francisco","Expedia.com","Hotels.com","Priceline","Travelocity.com","Booking.com","LastMinuteTravel","Orbitz.com","FindHotel","Agoda","CheapTickets.com","HotelsCombined"]}
+
+{"name":"The Ritz-Carlton, San Francisco","providerList":[]}
+
+{"name":"Howard Johnson by Wyndham San Francisco Marina District","providerList":["Howard Johnson by Wyndham San Francisco Marina District","Hotels.com","Travelocity.com","Priceline","Expedia.com","Booking.com","Agoda","Orbitz.com","KAYAK.com","CheapTickets.com","LastMinuteTravel","Hotwire.com"]}
+
+{"name":"The Inn San Francisco","providerList":["Hotels.com","Agoda","Expedia.com","Priceline","Travelocity.com","KAYAK.com","CheapTickets.com","Orbitz.com","Tripadvisor.com","Hotwire.com","Booking.com","FindHotel"]}
+
+{"name":"Staypineapple, An Elegant Hotel, Union Square San Francisco","providerList":["Staypineapple, An Elegant Hotel, Union Square San Francisco","Priceline","Tripadvisor.com","Hotels.com","Expedia.com","Booking.com","KAYAK.com","Agoda","LastMinuteTravel","Travelocity.com","HotelsCombined","CheapTickets.com"]}
+
+{"name":"The Herbert Hotel","providerList":["Agoda","Expedia.com","Hotels.com","Priceline","Booking.com","Travelocity.com","Tripadvisor.com","Orbitz.com","Hotwire.com","KAYAK.com","CheapTickets.com","HotelsCombined"]}
+
+{"name":"San Francisco Proper","providerList":["San Francisco Proper","Expedia.com","Hotels.com","Tablet Hotels by Michelin","Travelocity.com","Priceline","KAYAK.com","Agoda","Orbitz.com","Booking.com","FindHotel","MobyTrip"]}
+
+{"name":"FOUND Hotel San Francisco","providerList":["Expedia.com","Hotels.com","Travelocity.com","Orbitz.com","Agoda","Priceline","KAYAK.com","Tripadvisor.com","Hostelworld","Booking.com","CheapTickets.com","FOUND Hotel San Francisco"]}
+
+Summary - San Francisco
+
+{"Hotels":12}
+
+{"Ads":2}
+
+{"Hotels.com":11,"Expedia.com":11,"Agoda":11,"Booking.com":11,"Travelocity.com":11,"LastMinuteTravel":4,"Hilton San Francisco Financial District":1,"Priceline":11,"KAYAK.com":8,"HotelsCombined":5,"CheapTickets.com":8,"Hotwire.com":6,"Hotel Abri":1,"Tripadvisor.com":5,"Snaptravel":1,"FindHotel":6,"Courtyard by Marriott San Francisco Airport/Oyster Point Waterfront":1,"trivago.com":1,"Orbitz.com":8,"Trip.com":2,"Courtyard by Marriott San Francisco Union Square":1,"InterContinental San Francisco":1,"Howard Johnson by Wyndham San Francisco Marina District":1,"Staypineapple, An Elegant Hotel, Union Square San Francisco":1,"San Francisco Proper":1,"Tablet Hotels by Michelin":1,"MobyTrip":1,"Hostelworld":1,"FOUND Hotel San Francisco":1}
+
+
